@@ -10,5 +10,4 @@ spec:
     name: flux-test
   path: "./clusters/eks-cluster-tier-1"
   prune: true
-  validation: client
 
